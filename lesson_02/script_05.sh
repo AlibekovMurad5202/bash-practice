@@ -13,4 +13,3 @@ do
 		echo "$(basename $file) is a file"
 	fi
 done
-

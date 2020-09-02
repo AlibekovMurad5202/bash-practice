@@ -8,4 +8,3 @@ do
 	fi
 	echo "Number: $val"
 done
-

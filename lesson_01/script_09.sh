@@ -8,4 +8,3 @@ elif ls /home/kali
 then
 	echo "You're watching /home/kali"
 fi
-

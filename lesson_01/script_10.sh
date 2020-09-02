@@ -15,4 +15,3 @@ then
 else
 	echo "$val1 isn't greater than $val2"
 fi
-

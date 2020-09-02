@@ -10,4 +10,3 @@ do
 	echo "Iteration: $val"
 	val=$(( $val + 1 ))
 done
-

@@ -21,4 +21,3 @@ then
 else 
 	echo "The $mydir directory doesn't exist"
 fi
-

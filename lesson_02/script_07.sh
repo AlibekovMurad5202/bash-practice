@@ -7,4 +7,3 @@ do
 	echo $var
 	var=$(( $var - 1 ))
 done
-
